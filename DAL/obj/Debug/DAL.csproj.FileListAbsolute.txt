@@ -1,0 +1,10 @@
+D:\Winform\QL_BanHoa\DAL\bin\Debug\DAL.dll.config
+D:\Winform\QL_BanHoa\DAL\bin\Debug\DAL.dll
+D:\Winform\QL_BanHoa\DAL\bin\Debug\DAL.pdb
+D:\Winform\QL_BanHoa\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Winform\QL_BanHoa\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Winform\QL_BanHoa\DAL\obj\Debug\DAL.dll
+D:\Winform\QL_BanHoa\DAL\obj\Debug\DAL.pdb
+D:\Winform\QL_BanHoa\DAL\bin\Debug\EntityFramework.dll
+D:\Winform\QL_BanHoa\DAL\bin\Debug\EntityFramework.xml
+D:\Winform\QL_BanHoa\DAL\obj\Debug\DAL.csproj.CopyComplete

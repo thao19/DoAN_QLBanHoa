@@ -1,0 +1,13 @@
+D:\Winform\QL_BanHoa\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\Winform\QL_BanHoa\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Winform\QL_BanHoa\BUS\bin\Debug\BUS.dll
+D:\Winform\QL_BanHoa\BUS\bin\Debug\BUS.pdb
+D:\Winform\QL_BanHoa\BUS\bin\Debug\DAL.dll
+D:\Winform\QL_BanHoa\BUS\bin\Debug\DAL.pdb
+D:\Winform\QL_BanHoa\BUS\bin\Debug\DAL.dll.config
+D:\Winform\QL_BanHoa\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Winform\QL_BanHoa\BUS\obj\Debug\BUS.dll
+D:\Winform\QL_BanHoa\BUS\obj\Debug\BUS.pdb
+D:\Winform\QL_BanHoa\BUS\bin\Debug\BUS.dll.config
+D:\Winform\QL_BanHoa\BUS\bin\Debug\EntityFramework.dll
+D:\Winform\QL_BanHoa\BUS\bin\Debug\EntityFramework.xml
